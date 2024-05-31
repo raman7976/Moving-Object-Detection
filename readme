@@ -1,0 +1,5 @@
+It is a basic programme in pyhton that uses OpenCV to detect the motion with reference to initial image.
+It captures the image at starting of programme.
+Keeping the initial image as reference it identifies the change.
+You can modify the level of detection or use this programme as a sub part of greater project. :)
+THANK YOU!
